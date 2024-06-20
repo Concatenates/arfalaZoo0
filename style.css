@@ -1,0 +1,51 @@
+
+
+
+#hero-section{
+    background-image: url(LEEUW.jpg);
+    background-size: cover;
+    color:rgb(235, 253, 235);
+    min-height: 65vh;
+}
+#news-section {
+    background-image: url(plain.jpg);
+    color:rgb(198, 243, 204);
+    min-height: 50vh;
+}
+
+.btn{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding: 0.5rem 2rem;
+}
+.btn-outline-primary{
+    color: rgb(158, 181, 124);
+    border-color: rgb(158, 181, 124);
+    border-width: 0.2rem;
+    background-color: rgba(60, 96, 61, 0.598);
+    border-radius: 0.5rem;
+}
+
+.btn-outline-danger{
+    color: rgb(249, 233, 164);
+    border-color: rgb(249, 233, 164);
+    border-width: 0.2rem;
+    background-color:rgba(60, 96, 61, 0.598);
+    border-radius: 0.5rem;
+    width:295px
+}
+
+.card{
+    background-color: rgb(104, 124, 117);
+}
+
+.card .btn-primary{
+    color: rgb(249, 233, 164);
+    border-color: rgb(249, 233, 164);
+    border-width: 0.2rem;
+    background-color:rgba(60, 96, 61, 0.598);
+    border-radius: 0.5rem;
+    width:295px
+
+}
